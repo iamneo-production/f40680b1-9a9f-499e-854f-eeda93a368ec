@@ -1,0 +1,33 @@
+.login-box{
+    background: linear-gradient(to right,rgb(79, 185, 136),rgb(230, 88, 112));
+
+    height: 100vh;
+    width: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.small-box{
+    padding-top: 125px;
+    margin-top: 25px;
+}
+.login-text{
+    padding: 12px;
+    margin-bottom: 18px;
+    color: rgb(4, 30, 51);
+    font-family: roboto;
+
+}
+.signup-text{
+    color: rgb(70, 26, 141);
+    font-family: roboto;
+    font-weight: 300;
+    padding-left: 14px;
+}
+.buton{
+    color: red;
+    background-color: rgb(162, 0, 255);
+    margin-bottom: 8px;
+}
